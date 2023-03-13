@@ -1,0 +1,3 @@
+#!/bin/bash
+greop -i -v 'bin' /etc/passwd
+
